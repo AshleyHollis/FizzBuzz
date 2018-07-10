@@ -1,6 +1,6 @@
 ﻿namespace FizzBuzz
 {
-    public static class NumberExtenstions
+    public static class NumberExtensions
     {
         public static bool IsDivisableBy(this int dividend, int divisor)
         {
